@@ -1,4 +1,4 @@
-/**
+package ru.tanoshkin.dev.wordlearn; /**
  * Created by Aleksandr on 23.11.2015.
  */
 
